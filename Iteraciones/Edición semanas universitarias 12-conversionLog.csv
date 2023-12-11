@@ -1,0 +1,6 @@
+﻿"Error: Este error impedirá que el libro se publique. Es necesario corregir el error para poder publicarlo."
+"Aviso: Este problema no impedirá la publicación del libro y se puede ignorar de forma segura, ya que no tendrá ninguna repercusión."
+"Tipo","Descripción","Source File","Número de línea","Advertencia o error en el texto anterior","Solución recomendada"
+"Error","E24012: El archivo de navegación Epub no se pudo construir.","","","",""
+"Error","No se ha podido procesar el índice. Es posible que el archivo esté corrupto o no sea válido.","","","","Compruebe que su EPUB es válido validando el archivo con EPUBCheck, https://github.com/w3c/epubcheck"
+"Aviso","W30013: Elemento ""nav"" no válido en archivo de navegación. Consulte las directrices de publicación en Kindle para ver la compatibilidad de navegación con EPUB3. Un elemento ""nav"" puede tener dos elementos sucesores, un encabezado opcional, y una lista ordenada ol obligatoria en el archivo: C:\Users\NatyS\AppData\Local\Temp\502766ce-573d-499f-a731-d72e8be5a579\cTemp\mTemp\mbp_7E7_C_A_1_2E_2E_191_1C18_6368_1\OEBPS\Text\02nav.xhtml línea: 6","","","",""
